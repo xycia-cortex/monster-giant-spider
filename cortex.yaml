@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-giant-spider
+  x-cortex-tag: monster-giant-spider
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: beast
+    challenge_rating: 1
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-giant-spider
+      alias: github-token-test
