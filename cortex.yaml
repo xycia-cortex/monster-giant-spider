@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-giant-spider
+  x-cortex-tag: monster-giant-spider
+  x-cortex-custom-metadata:
+    alignment: neutral-good
+    type: construct
+    challenge_rating: 13
+    legendary: false
+    armor_class: 16
+    hit_points: 139
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-giant-spider
+      alias: github-token-test
